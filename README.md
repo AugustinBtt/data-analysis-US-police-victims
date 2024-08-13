@@ -1,0 +1,1 @@
+Data analysis of vitims to US police by communities between 2015 and 2017 in a Jupyter notebook. Data from the washington post. The Washington Post’s database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015. 
